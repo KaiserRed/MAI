@@ -2,4 +2,4 @@
         
 | № | link |
 | --- | ------ |
-| 1 | [homework_GD.ipynb](/homework_GD.ipynb) |
+| 1 | [notebooks_Homework_GD.ipynb](/notebooks_Homework_GD.ipynb) |
